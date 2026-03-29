@@ -1,6 +1,6 @@
 # The Enneagram Biochemical Signature Theory (EBST)
-## The Enneagram Personality Framework as a Diagram of Neurobiological Architecture
-## Tony Matson
+The Enneagram Personality Framework as a Diagram of Neurobiological Architecture
+Tony Matson
 
 ## Abstract
 The Enneagram has historically served as a phenotypic map, identifying nine stable personality configurations through centuries of observation and practitioner consensus. The Enneagram Biochemical Signature Theory (EBST) Version 12 reframes this traditional scaffolding as a neurobiological probe, investigating the underlying architectural fault lines of human personality. By mapping the Enneagram’s structures against established research in neurochemistry and evolutionary biology, the EBST derives the nine types, the three centers, and the directions of integration and disintegration from fundamental biological constraints. This white paper details the neurochemical configurations of the types, the metabolic trade-offs governing personality stability, and the evolutionary circuits—including the Locus Coeruleus-Norepinephrine system, the oxytocin-testosterone axis, and the mesolimbic dopamine pathway—that constitute the biological basis of the Enneagram.
